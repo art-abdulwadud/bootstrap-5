@@ -1,0 +1,7 @@
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-end;
+  }
+}
